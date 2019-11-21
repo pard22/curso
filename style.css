@@ -1,0 +1,21 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    color: cornsilk;
+}
+
+h2 {
+    color: darkgray;
+    font-size: 25px;
+}
+
+footer{
+    background-color: darkgrey;
+}
+.img {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
